@@ -10,8 +10,8 @@ Team Name: 29704 1
 6. Alvin Vasanthakumar - @alvinvasanth
 
 # Problem Description
-(Write Problem Descript here)
-Our task was to build a model and build a relationship database as the owner/operator of a football club named “Georgia United FC” We can provide some insights into our organization and the specific needs we have for a relational database. Georgia United FC is a professional football club based in the state of Georgia, aiming to participate in various leagues and tournaments, and we also have a thriving youth development academy. Here's some background information about our organization:
+We are tasked with creating a relational database and data model for the owner of a football club. In our model the central entity is the Club. Each club has teams that operate in different divisions and in various locations. The club operates in conjunction with matches, training sessions, ticket sales, etc. that it offers to fans who support the teams.We want to accurately model these relationships, generating sample data, and populating entities and queries with the sample data. Additionally, we are planning on performing functioning queries on this data so that they can provide us with valuable player and coach statistics as well as the overall club performance. 
+
 
 
 # Data Model
