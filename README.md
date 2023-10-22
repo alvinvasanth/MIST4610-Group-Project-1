@@ -3,7 +3,7 @@ Team Name: 29704 1
 
 # Team Members
 1. Jillian Bolgla 
-2. Conor Dillion 
+2. Conor Dillon @cjdillon11
 3. Brandon Hopper 
 4. Neha Panchal @nehapanchal2001
 5. Shrija Ramachandran Ganesh Mohan - [@shrija-27]([https://pages.github.com/](https://github.com/shrija-27?tab=repositories))
