@@ -6,7 +6,7 @@ Team Name: 29704 1
 2. Conor Dillion 
 3. Brandon Hopper 
 4. Neha Panchal 
-5. Shrija Ramachandran Ganesh Mohan - @shrija-27
+5. Shrija Ramachandran Ganesh Mohan - [@shrija-27s](https://pages.github.com/)
 6. Alvin Vasanthakumar
 
 # Problem Description
