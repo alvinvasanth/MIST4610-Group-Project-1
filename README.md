@@ -15,9 +15,8 @@ We are tasked with creating a relational database and data model for the owner o
 
 
 # Data Model
-(Data model goes here)
+<img width="440" alt="Screenshot 2023-10-31 at 1 37 22 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/b5609ce5-2601-4975-b032-6a122390d7f7">
 
 # Data Dictionary 
 
 # SQL Queries
-
