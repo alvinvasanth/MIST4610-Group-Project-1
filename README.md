@@ -34,3 +34,8 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 
 # SQL Queries
+
+# Database information:
+Name of the database: ns_
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
