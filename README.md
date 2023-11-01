@@ -27,8 +27,9 @@ On the other end of our data model we have the relationships between the Team an
 
 Lastly, there is a club entity created that represents the club associated with the respective teams. This entity, Club, stores information about the club name, description, and specific ID. There are 3 relationships associated with the Club entity. First, we created a one to many relationship with the Facilities entity. Clubs can have access to several facilities. Secondly, a one to many relationship was created with the Transactions entity. A club can have several transactions such as rent, utilities, supplies, etc. Finally, the relationship between Club and Teams was created as a one to many relationship. There is one club that houses all of the teams associated with the Club. However, a team may only belong to one club. 
 
-<img width="440" alt="Screenshot 2023-10-31 at 1 37 22 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/b5609ce5-2601-4975-b032-6a122390d7f7">
+![Screen Shot 2023-11-01 at 2 20 27 PM](https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/97ea47e2-1371-41b3-b8f0-f35bf5aae9ba)
 
 # Data Dictionary 
+
 
 # SQL Queries
