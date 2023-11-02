@@ -61,6 +61,31 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 # SQL Queries
 
+**TP_Q1**: Lists all the players whose position are strikers and defense
+<img width="1045" alt="Screenshot 2023-11-02 at 12 50 14 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/5647ba11-26b8-4087-b3d3-220e4436f40a">
+Explanation: Knowing the list of players who can perform as both strikers and defenders can have tactical, strategic, and managerial reasons. This list can be of interest to stakeholders, coaches and talent scouts to fans. 
+
+**TP_Q2**: Write a query that lists what fans have attended more than 50 matches. Order the number of matches attended from least to greatest.
+<img width="1056" alt="Screenshot 2023-11-02 at 12 51 24 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/7e6343f6-7c1e-4c1d-aa9a-2e31d923d00c">
+Explanation: Marketing is essential to creating a strong fanbase. A manager might want to know how many fans have attended a certain amount of games to see loyalty. Having loyal fan feedback and input can help improve experiences, player performance, marketing data, and build a sense of community between the players and fans.
+
+**TP_Q3**: Write a query that lists the total amount paid for each transaction type.
+<img width="1060" alt="Screenshot 2023-11-02 at 1 15 09 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/6adb09cc-6ac5-4ea4-9889-b7675dccf8bc">
+Explanation: A manager would want to know the total amount paid since it’s essential for financial analysis and make informed decisions about where to allocate revenues and control costs if over budget  
+
+**TP_Q4**: list out each matchup that resulted in a Georgia United FC victory
+<img width="1058" alt="Screenshot 2023-11-02 at 1 16 42 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/d4beef1c-b32b-4068-8311-d18d97a2b67c">
+Explanation: Knowing the list of matchups that resulted in a Georgia United FC victory can be valuable reasons such as performance analysis where the coaches can identify strong strategies, team performance and player strength/weaknesses. A list can help coaches/managers go through each game to make future game plans for a victory.
+
+**TP_Q5**: List the name of each coach, their specialty, and what team they belong to.
+<img width="1159" alt="Screenshot 2023-11-02 at 1 17 41 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/d18edd81-21d4-4da3-8809-5655f88b7e90">
+Explanation: A club manager would want to know the specific details of all the coaches that they employ. It is essential to keep track of coach details such as their speciality and the team they are associated with to perform thorough performance evaluations and track their success. 
+
+**TP_Q6**: List the sponsor name and contact information for those sponsors whose payment is greater than the average payment
+<img width="1167" alt="Screenshot 2023-11-02 at 1 18 37 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/e0a96676-dee9-4201-ab90-f624f1b4ff16">
+Explanation: Keeping track of sponsors is a key component of a club because they provide a significant amount of funding to keep the club running. Monitoring sponsors ensures that the manager is aware of the financial commitments and support provided by sponsors. Sponsors who contribute amounts greater than the average payment should be noted as higher level sponsors and recognized by the manager. 
+
+
 # Database information:
 Name of the database: ns_29704_1
 
