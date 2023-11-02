@@ -61,9 +61,10 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 # SQL Queries
 
-**TP_Q1**: Lists all the players whose position are strikers and defense
-<img width="1045" alt="Screenshot 2023-11-02 at 12 50 14 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/5647ba11-26b8-4087-b3d3-220e4436f40a">
-Explanation: Knowing the list of players who can perform as both strikers and defenders can have tactical, strategic, and managerial reasons. This list can be of interest to stakeholders, coaches and talent scouts to fans. 
+**TP_Q1**: Write a query that lists all the players and their positons
+<img width="1064" alt="Query 1" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/e128a61d-6cae-4a3c-8313-52e863db1ab8">
+Explanation: Knowing the list of players and their positions can have tactical, strategic, and managerial reasons. This list can be of interest to stakeholders, coaches and talent scouts to fans. 
+ 
 
 **TP_Q2**: Write a query that lists what fans have attended more than 50 matches. Order the number of matches attended from least to greatest.
 <img width="1056" alt="Screenshot 2023-11-02 at 12 51 24 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/7e6343f6-7c1e-4c1d-aa9a-2e31d923d00c">
