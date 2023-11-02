@@ -37,6 +37,9 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 <img width="649" alt="Screenshot 2023-11-02 at 12 11 57 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/38e0c95d-80c9-4d0c-a366-a08e65e8b629">
 
+<img width="694" alt="Screenshot 2023-11-02 at 12 22 29 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/b5935132-5bd1-49e5-ab36-574fdc9fb80c">
+
+
 # SQL Queries
 
 # Database information:
