@@ -59,6 +59,9 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 <img width="615" alt="Screenshot 2023-11-02 at 12 41 30 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/e89f5ec2-612a-4463-b616-62c2da112c47">
 
+<img width="744" alt="Tickets" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/26d0f184-0beb-4472-a311-5c958692fc42">
+
+
 # SQL Queries
 
 **TP_Q1**: Write a query that lists all the players and their positons
