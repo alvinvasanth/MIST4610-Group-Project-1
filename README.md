@@ -2,9 +2,9 @@
 Team Name: 29704 1
 
 # Team Members
-1. Jillian Bolgla 
+1. Jillian Bolgla [@jillianbolgla](https://github.com/jillianbolgla)
 2. Conor Dillon [@cjdillon11](https://github.com/cjdillon11)
-3. Brandon Hopper 
+3. Brandon Hopper [@bhop19](https://github.com/bhop19)
 4. Neha Panchal [@nehapanchal2001](https://github.com/nehapanchal2001)
 5. Shrija Ramachandran Ganesh Mohan - [@shrija-27](https://github.com/shrija-27)
 6. Alvin Vasanthakumar - [@alvinvasanth](https://github.com/alvinvasanth)
