@@ -47,6 +47,13 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 <img width="666" alt="Screenshot 2023-11-02 at 12 28 47 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/4255efb3-6e16-4935-a4ea-686a8d0f8bdb">
 
+<img width="684" alt="Screenshot 2023-11-02 at 12 32 24 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/0b833c1f-4265-403d-9ca4-b73bec40b021">
+
+<img width="595" alt="Screenshot 2023-11-02 at 12 34 03 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/a7958568-a11f-4a93-9a05-bcc102c590bd">
+
+<img width="330" alt="Screenshot 2023-11-02 at 12 34 36 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/8f5b95fa-c6cb-4c26-b423-dc2111874e98">
+
+<img width="329" alt="Screenshot 2023-11-02 at 12 35 10 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/ad827fef-3b55-41ad-be59-25f087ac3f1b">
 
 
 
@@ -54,6 +61,5 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 # Database information:
 Name of the database: ns_29704_1
-<img width="688" alt="Screenshot 2023-11-02 at 12 29 27 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/a3fab2d9-ecf4-4b34-93f1-a0a57909539e">
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
