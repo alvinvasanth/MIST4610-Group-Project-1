@@ -51,8 +51,13 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 <img width="595" alt="Screenshot 2023-11-02 at 12 34 03 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/a7958568-a11f-4a93-9a05-bcc102c590bd">
 
+<img width="619" alt="Screenshot 2023-11-02 at 12 39 48 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/69588489-ecc0-4926-8461-cf9f5284605d">
 
+<img width="619" alt="Screenshot 2023-11-02 at 12 40 48 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/267646a0-d2e3-41fe-a134-2fcfe3b5ac4d">
 
+<img width="633" alt="Screenshot 2023-11-02 at 12 41 14 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/c3f1b1b3-c377-4001-bfb3-23406c915394">
+
+<img width="615" alt="Screenshot 2023-11-02 at 12 41 30 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/e89f5ec2-612a-4463-b616-62c2da112c47">
 
 # SQL Queries
 
