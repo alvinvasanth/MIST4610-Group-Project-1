@@ -39,10 +39,21 @@ Lastly, there is a Club entity created that represents the club associated with 
 
 <img width="694" alt="Screenshot 2023-11-02 at 12 22 29 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/b5935132-5bd1-49e5-ab36-574fdc9fb80c">
 
+<img width="658" alt="Screenshot 2023-11-02 at 12 27 14 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/e55c352d-ec2a-4a18-ba22-6f81ed3f35a6">
+
+<img width="653" alt="Screenshot 2023-11-02 at 12 27 36 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/a5da40cd-fb61-4ddd-9cdb-dd4ca5a34827">
+
+<img width="643" alt="Screenshot 2023-11-02 at 12 27 41 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/0262d146-ddda-4cdd-9da4-435f05755d84">
+
+<img width="666" alt="Screenshot 2023-11-02 at 12 28 47 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/4255efb3-6e16-4935-a4ea-686a8d0f8bdb">
+
+
+
 
 # SQL Queries
 
 # Database information:
 Name of the database: ns_29704_1
+<img width="688" alt="Screenshot 2023-11-02 at 12 29 27 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/a3fab2d9-ecf4-4b34-93f1-a0a57909539e">
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
