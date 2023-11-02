@@ -31,7 +31,11 @@ Lastly, there is a Club entity created that represents the club associated with 
 ![Screen Shot 2023-11-01 at 2 20 27 PM](https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/97ea47e2-1371-41b3-b8f0-f35bf5aae9ba)
 
 # Data Dictionary 
+<img width="659" alt="Screenshot 2023-11-02 at 12 11 31 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/6a6202b8-6802-43f6-9a56-12f0bf1db024">
 
+<img width="643" alt="Screenshot 2023-11-02 at 12 11 41 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/6c03e6b7-ab3a-4d64-8cac-a47492bb98cc">
+
+<img width="649" alt="Screenshot 2023-11-02 at 12 11 57 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/38e0c95d-80c9-4d0c-a366-a08e65e8b629">
 
 # SQL Queries
 
