@@ -93,9 +93,9 @@ Explanation: Keeping track of sponsors is a key component of a club because they
 <img width="1038" alt="Query 7" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/3187306b-572f-4f0a-b2fa-f547b12d8e5d">
 Explanation: Defense is an important aspect of any sport. This query allows for managers and coaches to have accessible data for the players who play defense and the coaches that specialize in defense. Having this information can be useful when managers are looking at their roster assessing the makeup of each team.
 
-**TP_Q8**:
+**TP_Q8**:Write a query that lists each player and their skill level, determined by their overall rating. 
 <img width="1086" alt="Query 8" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/494d554e-3487-4d71-8eb4-40420950bd3c">
-Explanation
+Explanation: 
 
 
 **TP_Q9**: Write a query to list out players for ____ (specific team) who make more than ____ (certain amount so we can use the having clause). Order the results in descending order
