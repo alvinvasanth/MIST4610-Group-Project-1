@@ -95,7 +95,7 @@ Explanation: Defense is an important aspect of any sport. This query allows for 
 
 **TP_Q8**:Write a query that lists each player and their skill level, determined by their overall rating. 
 <img width="1086" alt="Query 8" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/494d554e-3487-4d71-8eb4-40420950bd3c">
-Explanation: 
+Explanation: Player performance is critical in a team's success. This query allows managers and coaches to see how players are performing based on their overall rating. Coaches and managers can see what players need more practice and can use that to better equip their teams for success. 
 
 
 **TP_Q9**: Write a query to list out players for ____ (specific team) who make more than ____ (certain amount so we can use the having clause). Order the results in descending order
