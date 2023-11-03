@@ -89,6 +89,22 @@ Explanation: A club manager would want to know the specific details of all the c
 <img width="1167" alt="Screenshot 2023-11-02 at 1 18 37 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/e0a96676-dee9-4201-ab90-f624f1b4ff16">
 Explanation: Keeping track of sponsors is a key component of a club because they provide a significant amount of funding to keep the club running. Monitoring sponsors ensures that the manager is aware of the financial commitments and support provided by sponsors. Sponsors who contribute amounts greater than the average payment should be noted as higher level sponsors and recognized by the manager. 
 
+**TP_Q7**: List the different teams, their coaches who specialize in defense, and the players whose position is defense
+<img width="1082" alt="Query 7" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/8ce75526-ee77-46af-b7f9-e9418b4f4705">
+Explanation: Defense is an important aspect of any sport. This query allows for managers and coaches to have accessible data for the players who play defense and the coaches that specialize in defense. Having this information can be useful when managers are looking at their roster assessing the makeup of each team.
+
+**TP_Q8**:
+
+
+**TP_Q9**: Write a query to list out players for ____ (specific team) who make more than ____ (certain amount so we can use the having clause). Order the results in descending order
+<img width="618" alt="Query 9" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/c86d17ec-2c4d-4b58-a87c-f430cc1d444b">
+Explanation: Salary is a huge component of teams, however teams only have so much money they can hand out. Therefore, this query allows managers to evaluate how their budget is being allocated. It’s important to note that managers can input any team name and any salary depending on their needs. We used the team “Lions” and the salary “$200,000” as an example.
+
+**TP_Q10**: Write a query to list out average price of tickets that are ____ (certain ticket type) where the match opponent was ______ (certain match opponent)
+<img width="1064" alt="Query 10" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/5175d93f-582c-430e-9d20-413f96f47c0c">
+Explanation: This query allows the club executives and high level managers to see which type of seats are being sold out in accordance with which match opponents are playing in order to gain a better understanding of where people desire to watch their favorite teams play. This helps them not only to structure their stadium seats to gain more viewership profit, but also see how the pricing of tickets is being affected by which teams play. With this information, they can see which teams playing against each other elicit higher ticket prices, and create matchups for better profit. Again, it is important to note that managers can input any type of seat and opponent they choose, adding flexibility for the managers. We chose Box seats and Franecki-O’Reilly for purposes of output.
+
+
 
 # Database information:
 Name of the database: ns_29704_1
