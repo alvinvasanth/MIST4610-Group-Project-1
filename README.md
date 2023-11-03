@@ -9,6 +9,9 @@ Team Name: 29704 1
 5. Shrija Ramachandran Ganesh Mohan - [@shrija-27](https://github.com/shrija-27)
 6. Alvin Vasanthakumar - [@alvinvasanth](https://github.com/alvinvasanth)
 
+# ChatGPT Response
+https://docs.google.com/document/d/1RU8uZK5zfxMJaa5XlytWOYu2rA_4dH5KpP6m32WwGoM/edit?usp=sharing 
+
 # Problem Description
 We are tasked with creating a relational database and data model for the owner of a football club. In our model the central entity is the Club. Each club has teams that operate in different divisions and in various locations. The club operates in conjunction with matches, training sessions, ticket sales, etc. that it offers to fans who support the teams.We want to accurately model these relationships, generating sample data, and populating entities and queries with the sample data. Additionally, we are planning on performing functioning queries on this data so that they can provide us with valuable player and coach statistics as well as the overall club performance. 
 
