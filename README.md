@@ -65,43 +65,43 @@ Lastly, there is a Club entity created that represents the club associated with 
 # SQL Queries
 
 **TP_Q1**: Write a query that lists all the players and their positons
-<img width="1064" alt="Query 1" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/e128a61d-6cae-4a3c-8313-52e863db1ab8">
+<img width="1026" alt="Query 1" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/25e4381e-8b63-4253-9b42-2298613e921c">
 Explanation: Knowing the list of players and their positions can have tactical, strategic, and managerial reasons. This list can be of interest to stakeholders, coaches and talent scouts to fans. 
  
 
 **TP_Q2**: Write a query that lists what fans have attended more than 50 matches. Order the number of matches attended from least to greatest.
-<img width="1056" alt="Screenshot 2023-11-02 at 12 51 24 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/7e6343f6-7c1e-4c1d-aa9a-2e31d923d00c">
+<img width="1034" alt="Query 2" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/d3508af6-9b87-499f-9f91-a9ad366d2a16">
 Explanation: Marketing is essential to creating a strong fanbase. A manager might want to know how many fans have attended a certain amount of games to see loyalty. Having loyal fan feedback and input can help improve experiences, player performance, marketing data, and build a sense of community between the players and fans.
 
 **TP_Q3**: Write a query that lists the total amount paid for each transaction type.
-<img width="1060" alt="Screenshot 2023-11-02 at 1 15 09 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/6adb09cc-6ac5-4ea4-9889-b7675dccf8bc">
+<img width="951" alt="Query 3" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/df8fd427-2e77-4cd5-b579-8ff6084035e1">
 Explanation: A manager would want to know the total amount paid since it’s essential for financial analysis and make informed decisions about where to allocate revenues and control costs if over budget  
 
 **TP_Q4**: list out each matchup that resulted in a Georgia United FC victory
-<img width="1058" alt="Screenshot 2023-11-02 at 1 16 42 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/d4beef1c-b32b-4068-8311-d18d97a2b67c">
+<img width="1003" alt="Query 4" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/58112ad5-32e8-4b1b-810c-cfe25bdf27dc">
 Explanation: Knowing the list of matchups that resulted in a Georgia United FC victory can be valuable reasons such as performance analysis where the coaches can identify strong strategies, team performance and player strength/weaknesses. A list can help coaches/managers go through each game to make future game plans for a victory.
 
 **TP_Q5**: List the name of each coach, their specialty, and what team they belong to.
-<img width="1159" alt="Screenshot 2023-11-02 at 1 17 41 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/d18edd81-21d4-4da3-8809-5655f88b7e90">
+<img width="960" alt="Query 5" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/fa3a8106-be54-407a-bf5e-8d9a223bf576">
 Explanation: A club manager would want to know the specific details of all the coaches that they employ. It is essential to keep track of coach details such as their speciality and the team they are associated with to perform thorough performance evaluations and track their success. 
 
 **TP_Q6**: List the sponsor name and contact information for those sponsors whose payment is greater than the average payment
-<img width="1167" alt="Screenshot 2023-11-02 at 1 18 37 PM" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/92402657/e0a96676-dee9-4201-ab90-f624f1b4ff16">
+<img width="1076" alt="Query 6" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/5b635666-56f1-4ed7-a2d2-e958d7ab6fe8">
 Explanation: Keeping track of sponsors is a key component of a club because they provide a significant amount of funding to keep the club running. Monitoring sponsors ensures that the manager is aware of the financial commitments and support provided by sponsors. Sponsors who contribute amounts greater than the average payment should be noted as higher level sponsors and recognized by the manager. 
 
 **TP_Q7**: List the different teams, their coaches who specialize in defense, and the players whose position is defense
-<img width="1082" alt="Query 7" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/8ce75526-ee77-46af-b7f9-e9418b4f4705">
+<img width="1038" alt="Query 7" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/3187306b-572f-4f0a-b2fa-f547b12d8e5d">
 Explanation: Defense is an important aspect of any sport. This query allows for managers and coaches to have accessible data for the players who play defense and the coaches that specialize in defense. Having this information can be useful when managers are looking at their roster assessing the makeup of each team.
 
 **TP_Q8**:
 
 
 **TP_Q9**: Write a query to list out players for ____ (specific team) who make more than ____ (certain amount so we can use the having clause). Order the results in descending order
-<img width="618" alt="Query 9" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/c86d17ec-2c4d-4b58-a87c-f430cc1d444b">
+<img width="1088" alt="Query 9" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/4de5730a-2811-44ba-b6e3-fc0da93e61f0">
 Explanation: Salary is a huge component of teams, however teams only have so much money they can hand out. Therefore, this query allows managers to evaluate how their budget is being allocated. It’s important to note that managers can input any team name and any salary depending on their needs. We used the team “Lions” and the salary “$200,000” as an example.
 
 **TP_Q10**: Write a query to list out average price of tickets that are ____ (certain ticket type) where the match opponent was ______ (certain match opponent)
-<img width="1064" alt="Query 10" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/5175d93f-582c-430e-9d20-413f96f47c0c">
+<img width="1103" alt="Query 10" src="https://github.com/alvinvasanth/MIST4610-Group-Project-1/assets/148080560/4904885a-daa6-49b4-b4bc-896be0aeef13">
 Explanation: This query allows the club executives and high level managers to see which type of seats are being sold out in accordance with which match opponents are playing in order to gain a better understanding of where people desire to watch their favorite teams play. This helps them not only to structure their stadium seats to gain more viewership profit, but also see how the pricing of tickets is being affected by which teams play. With this information, they can see which teams playing against each other elicit higher ticket prices, and create matchups for better profit. Again, it is important to note that managers can input any type of seat and opponent they choose, adding flexibility for the managers. We chose Box seats and Franecki-O’Reilly for purposes of output.
 
 
